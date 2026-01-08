@@ -1,8 +1,8 @@
 # Hi, I'm Abdul Aziz Tamim👋
 ![Web Designer and Programming Learner.](https://media.licdn.com/dms/image/v2/D5622AQHFtoSzEyIEeQ/feedshare-shrink_1280/B56ZucsrnYH0Ag-/0/1767860517543?e=1769644800&v=beta&t=fDD-HJuo6mWxoTG3V_v5y1lXVle8abQc9wXj0vUHhLg)
 
-## Web Designer and Programming Learner.
-🖊️ Love to write code
+### 👑 Web Designer and Programming Learner
+🖊️ Love to write code  
 🎤 Like to share my knowledge
 
 ## 🚀 About Me
