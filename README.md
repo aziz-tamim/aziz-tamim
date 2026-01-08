@@ -20,7 +20,11 @@ Studying Diploma in Engineering with a passion for web design and programming. S
 - 📫 How to reach me: tamimaziz2007@gmail.com 
 
 ## ☕ Connect with me!
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)' alt='github' height='40'>](https://github.com/aziz-tamim)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdul-aziz-tamim-611b2b306/)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)' alt='facebook' height='40'>](https://www.facebook.com/tamim.aziz.38693)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)' alt='twitter' height='40'>](https://twitter.com/AbdulAzizS9581)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/25341781/abdul-aziz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-aziz-tamim-611b2b306/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tamim.aziz.38693)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbdulAzizS9581)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25341781/abdul-aziz)
+
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/aziz-tamim/contributions?format=svg&private=false)  
 
