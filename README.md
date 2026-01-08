@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Abdul Aziz Tamim
-#### Web Designer and Programming Learner.
 ![Web Designer and Programming Learner.](https://media.licdn.com/dms/image/v2/D5616AQHkpEp5vC3eYw/profile-displaybackgroundimage-shrink_350_1400/B56ZssauADKIAY-/0/1765976761994?e=1769644800&v=beta&t=abJUA12P6t1gPPzE6KM5jnn4rczBzUTDxcbI9cJDJ14)
+# Hi there 👋, I'm Abdul Aziz Tamim
+#### Web Designer and Programming Learner.
 
 Studying Diploma in Engineering with a passion for web design and programming. Skilled in HTML, CSS, JavaScript, WordPress, Elementor, C, C++ and basic knowledge of Python, and Java. Enthusiastic about building projects, learning new technologies, and collaborating on team-based development.
 
