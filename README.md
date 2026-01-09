@@ -1,4 +1,3 @@
-# Hi, I'm Abdul Aziz Tamim👋
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="40"/> Hi, I'm Abdul Aziz Tamim
 ![Web Designer and Programming Learner.](https://media.licdn.com/dms/image/v2/D5622AQHFtoSzEyIEeQ/feedshare-shrink_1280/B56ZucsrnYH0Ag-/0/1767860517543?e=1769644800&v=beta&t=fDD-HJuo6mWxoTG3V_v5y1lXVle8abQc9wXj0vUHhLg)
 
