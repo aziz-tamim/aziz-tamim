@@ -30,5 +30,7 @@ Studying Diploma in Engineering with a passion for web design and programming. S
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbdulAzizS9581)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25341781/abdul-aziz)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aziz-tamim)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aziz-tamim" alt="GitHub streak stats" />
+</p>
 
