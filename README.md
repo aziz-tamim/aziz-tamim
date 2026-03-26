@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="40"/> Hi, I'm Abdul Aziz Tamim
 ![Web Designer and Programming Learner](https://raw.githubusercontent.com/aziz-tamim/cpi-website/main/img/banner.png)
 
-### 👑 Web Designer and Programming Lern
+### 👑 Web Designer and Programming Lerner
 🖊️ Love to write code  
 🎤 Like to share my knowledge
 
